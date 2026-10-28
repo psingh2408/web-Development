@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My introduction</title>
+</head>
+<body>
+<h1>Hello I'm Palak</h1>
+<p> I am learning Web Development</p>
+<h2>My skills </h2>
+<ul>
+<li>HTML</li>
+<li>PYTHON</li>
+<li>Problem Solving</li>
+</ul>
+<h2> My Daily Goals</h2>
+<ol>
+<li>Practice Coding</li>
+<li>Learning Something New</li>
+<li>Upload Code On GitHub</li>
+</ol>
+<a href="https://github.com/"> Visit GitHub </a>
+</body>
+ </html>
+
